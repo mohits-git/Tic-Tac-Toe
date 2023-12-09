@@ -1,0 +1,3 @@
+# Tic-Tac-Toe
+Simple frontend project using HTML, CSS and JavaScript. <br>
+Took the design reference from a random fellow learner on socials...
